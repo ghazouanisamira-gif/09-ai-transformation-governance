@@ -82,3 +82,9 @@ Technical implementation and model-related execution were handled by the relevan
 ## Confidentiality
 
 This case study is intentionally anonymized. It does not disclose company/client names, employee or customer data, proprietary configurations, confidential URLs, financial information, credentials or sensitive operational datasets.
+
+---
+
+**Author:** Samira Ghazouani  
+**Positioning:** Quality & PMO | Governance & Transformation | Operational Excellence | Risk  
+**Certifications:** PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
