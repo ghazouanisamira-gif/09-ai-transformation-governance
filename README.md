@@ -76,8 +76,8 @@ Technical implementation and model-related execution were handled by the relevan
 
 ## Related Evidence
 
-- [Quality & Governance Framework](../02-quality-governance-framework)
-- [AI Deployment — Operational Quality Evidence](../02-quality-governance-framework/case-study/ai-deployment-evidence.md)
+- [Quality & Governance Framework](https://github.com/ghazouanisamira-gif/02-quality-governance-framework)
+- [AI Deployment — Operational Quality Evidence](https://github.com/ghazouanisamira-gif/02-quality-governance-framework/case-study/ai-deployment-evidence.md)
 
 ## Confidentiality
 
